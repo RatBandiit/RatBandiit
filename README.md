@@ -1,4 +1,6 @@
-### Hi there 👋
+### Currently interested in - Game Design, Networking, Graphic Design
+Working on - Destination Limbo + Personal Website
+He/They
 
 <!--
 **RatBandiit/RatBandiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
