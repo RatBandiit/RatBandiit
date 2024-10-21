@@ -1,6 +1,6 @@
-### Currently interested in - Game Design, Networking, Graphic Design
-### Working on - Destination Limbo + Personal Website
-#### He/They
+### INTERESTED IN | Game Design, Digital Forensics, Cyber Analytics, 
+### I'M WORKING ON | Soul Survivor + Personal Website
+#### He/Him
 
 <!--
 **RatBandiit/RatBandiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
